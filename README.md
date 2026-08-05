@@ -54,25 +54,19 @@
 **AI / ML & Engineering Tools:**<br/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/> <img src="https://img.shields.io/badge/GGUF_Quantization-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="GGUF"/> <img src="https://img.shields.io/badge/XGBoost-EB5424?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
 
----
-
-### 📊 Competitive Programming & Platform Analytics
+### 📊 Competitive Programming
 
 <div align="center">
+
   <a href="https://leetcode.com/u/mohit_2722/">
-    <!-- Swapped to a more stable LeetCode API (leetcard) -->
-    <img src="https://leetcard.jacoblin.cool/mohit_2722?theme=transparent&font=Inter&ext=activity" alt="LeetCode Progress" height="195"/>
+    <img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Knight" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/mohit-rathwa">
-    <!-- Added cache_seconds to prevent GitHub rate-limiting the Vercel app -->
-    <img src="https://github-readme-stats.vercel.app/api?username=mohit-rathwa&show_icons=true&theme=transparent&hide_border=true&title_color=2f80ed&icon_color=2f80ed&cache_seconds=86400" alt="GitHub Stats" height="195"/>
-  </a>
-</div>
+  <img src="https://img.shields.io/badge/Max_Rating-1942-00599C?style=for-the-badge" alt="Rating 1942" />
+  <img src="https://img.shields.io/badge/Problems_Solved-600+-47A248?style=for-the-badge" alt="600+ Solved" />
+  <img src="https://img.shields.io/badge/Global-Top_5%25-E11D48?style=for-the-badge" alt="Top 5%" />
 
-<br/>
+  <br/><br/>
+  
+  <p><b>Global Ranks:</b> #610 <i>(Biweekly 198)</i> | #1988 <i>(Weekly 476)</i></p>
 
-<div align="center">
-  <!-- Swapped from Heroku to the actively maintained Demolab instance for Streaks -->
-  <img src="https://streak-stats.demolab.com/?user=mohit-rathwa&theme=transparent&hide_border=true&title_color=2f80ed&cache_seconds=86400" alt="GitHub Streak" />
 </div>
