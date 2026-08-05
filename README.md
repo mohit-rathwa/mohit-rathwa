@@ -1,59 +1,75 @@
-# Hi 👋, I'm Mohit Rathwa
+<div align="center">
 
-Building privacy-first AI systems, high-efficiency web architectures, and scalable full-stack applications with equal parts logic and curiosity.
+  <h1>Hi there, I'm Mohit Rathwa 👋</h1>
+  
+  <p><b>B.Tech @ IIIT Allahabad | Full-Stack & AI Systems Engineer | Competitive Programmer</b></p>
 
----
-
-### 🚀 About Me
-
-- 🎓 **B.Tech student in Electronics and Communication Engineering** (Minor in Entrepreneurship) at IIIT Allahabad *(2023–2027)*
-- 🏆 **LeetCode Knight** (Max Rating: 1942, Top 5% globally) with **600+ algorithmic problems solved**
-- 🔬 **Undergraduate Research Intern** — Processing multi-million record datasets and building predictive ML microservices
-- ⚡ **Amazon ML Summer School 2026** Scholar & Multi-time National Hackathon Semi-Finalist (Flipkart GridLock 2.0, Google Big Code, Adobe GenSolve)
-- 💬 Ask me about **Python, C++, MERN Stack, Local SLM/LLM Inference, Quantization & REST APIs**
-- 📫 Reach me at: **mohitrathwa2701@gmail.com**
-
----
-
-### 🛠️ Featured Projects
-
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| 🤖 **Local SLM & Benchmarking Engine** | Privacy-first offline inference engine for small language models with automated output schema validation and RAM/TTFT profiling. | Python, Ollama, FastAPI, Streamlit, Pydantic | — |
-| 🎙️ **InterviewAI** | Autonomous mock technical interview platform generating dynamic, resume-contextualized questions via Gemini API. | React.js, Node.js, Express, MongoDB, Gemini API | [Live App](https://mock-interview-ai-tan.vercel.app/) \| [GitHub](https://github.com/mohit-rathwa/mock-interview-ai) |
-| 🚘 **Traffic Vision** | Containerized real-time computer vision microservice for multi-class vehicle classification and live traffic density analytics. | Vanilla JS, Docker, FastAPI, YOLOv8 | [Live Space](https://huggingface.co/spaces/trafficvision-team/trafficvision-ai) \| [GitHub](https://github.com/mohit-rathwa/TrafficVision) |
-| 🌾 **Sabziwise** | Farm-to-fork e-commerce platform optimizing agricultural produce supply chain and inventory management. | React.js, Node.js, Express, MongoDB | [Live Demo](https://sabziwise-farmfresh-at-urdoorstep.lovable.app) \| [GitHub](https://github.com/mohit-rathwa/sabziwise-farmfresh-at-urdoorstep) |
-| 💰 **Kharcha Dekho** | Personal finance tracker with automated budget categorization and interactive trend analytics. | Python, Streamlit, pandas | [Live App](https://expense-tracker-kharcha-dekho.streamlit.app/) \| [GitHub](https://github.com/mohit-rathwa/expense-tracker) |
-
----
-
-### 💻 Tech Stack
-
-- **Languages:** `C++` `C` `Python` `JavaScript` `TypeScript` `SQL`
-- **Full Stack & Web:** `React.js` `Node.js` `Express.js` `FastAPI` `MongoDB` `Tailwind CSS` `REST APIs`
-- **AI / ML & Data:** `Ollama` `GGUF Quantization` `XGBoost` `Pandas` `Scikit-learn` `YOLOv8` `Google Gemini API`
-- **DevOps & Tools:** `Git` `GitHub` `Docker` `Linux CLI` `Postman` `Vercel` `Render`
-
----
-
-### 🏆 Competitive Programming & Stats
-
-<p align="center">
-  <img src="https://leetcode-stats-api.herokuapp.com/mohit_2722" alt="Mohit's LeetCode Stats" />
-</p>
-
----
-
-### 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/mohit-rathwa-937693242/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/mohit-rathwa-937693242/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/u/mohit_2722/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <a href="https://leetcode.com/u/mohit_2722/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="mailto:mohitrathwa2701@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</p>
+
+</div>
+
+<br/>
+
+---
+
+### ⚡ Executive Summary
+
+> 🎓 **B.Tech in Electronics & Communication Engineering (Minor in Entrepreneurship)** <br>
+> 🏆 **LeetCode Knight** | Max Rating: 1942 | Top 5% Globally | 600+ Problems Solved <br>
+> 🤖 **Focus:** Privacy-First AI Systems, Local SLM/LLM Inference, Microservices & MERN <br>
+> 🚀 **Scholar:** Amazon ML Summer School 2026 | Multi-time National Hackathon Semi-Finalist
+
+---
+
+### 🛠️ Featured Projects & Engineering Output
+
+| Project | Domain / Highlights | Architecture & Tech Stack | Direct Links |
+| :--- | :--- | :--- | :---: |
+| 🤖 **Local SLM Benchmarking Engine** | Offline inference engine for small language models; GGUF quantization, Pydantic schema validation, RAM/TTFT profiling. | `Python` `Ollama` `FastAPI` `Streamlit` `Instructor` | — |
+| 🎙️ **InterviewAI** | Autonomous mock technical interview platform with dynamic resume-contextualized question generation. | `React.js` `Node.js` `Express` `MongoDB` `Gemini API` | [<img src="https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live"/>](https://mock-interview-ai-tan.vercel.app/) [<img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>](https://github.com/mohit-rathwa/mock-interview-ai) |
+| 🚘 **Traffic Vision** | Containerized real-time computer vision microservice for vehicle classification & live traffic metrics. | `Vanilla JS` `FastAPI` `YOLOv8` `Docker` | [<img src="https://img.shields.io/badge/Space-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HF Space"/>](https://huggingface.co/spaces/trafficvision-team/trafficvision-ai) [<img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>](https://github.com/mohit-rathwa/TrafficVision) |
+| 🌾 **Sabziwise** | Farm-to-fork produce distribution platform with dynamic catalog sync and order processing. | `React.js` `Node.js` `Express` `MongoDB` | [<img src="https://img.shields.io/badge/Live-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Live"/>](https://sabziwise-farmfresh-at-urdoorstep.lovable.app) [<img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>](https://github.com/mohit-rathwa/sabziwise-farmfresh-at-urdoorstep) |
+| 💰 **Kharcha Dekho** | Personal expenditure logging & interactive automated budget analytics app. | `Python` `Streamlit` `pandas` | [<img src="https://img.shields.io/badge/Live-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Live"/>](https://expense-tracker-kharcha-dekho.streamlit.app/) [<img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>](https://github.com/mohit-rathwa/expense-tracker) |
+
+---
+
+### 🧰 Tech Stack Matrix
+
+**Languages:**<br/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+<br/><br/>
+
+**Backend, Web & Cloud:**<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/> <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/> <img src="https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=json&logoColor=white" alt="REST"/>
+<br/><br/>
+
+**AI / ML & Engineering Tools:**<br/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/> <img src="https://img.shields.io/badge/GGUF_Quantization-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="GGUF"/> <img src="https://img.shields.io/badge/XGBoost-EB5424?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+
+---
+
+### 📊 Competitive Programming & Platform Analytics
+
+<div align="center">
+  <a href="https://leetcode.com/u/mohit_2722/">
+    <img src="https://leetcode-stats-api.herokuapp.com/mohit_2722" alt="LeetCode Progress" height="195"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/mohit-rathwa">
+    <img src="https://github-readme-stats.vercel.app/api?username=mohit-rathwa&show_icons=true&theme=transparent&hide_border=true&title_color=2f80ed&icon_color=2f80ed" alt="GitHub Stats" height="195"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-rathwa&theme=transparent&hide_border=true&title_color=2f80ed" alt="GitHub Streak" />
+</div>
