@@ -60,16 +60,19 @@
 
 <div align="center">
   <a href="https://leetcode.com/u/mohit_2722/">
-    <img src="https://leetcode-stats-api.herokuapp.com/mohit_2722" alt="LeetCode Progress" height="195"/>
+    <!-- Swapped to a more stable LeetCode API (leetcard) -->
+    <img src="https://leetcard.jacoblin.cool/mohit_2722?theme=transparent&font=Inter&ext=activity" alt="LeetCode Progress" height="195"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/mohit-rathwa">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohit-rathwa&show_icons=true&theme=transparent&hide_border=true&title_color=2f80ed&icon_color=2f80ed" alt="GitHub Stats" height="195"/>
+    <!-- Added cache_seconds to prevent GitHub rate-limiting the Vercel app -->
+    <img src="https://github-readme-stats.vercel.app/api?username=mohit-rathwa&show_icons=true&theme=transparent&hide_border=true&title_color=2f80ed&icon_color=2f80ed&cache_seconds=86400" alt="GitHub Stats" height="195"/>
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-rathwa&theme=transparent&hide_border=true&title_color=2f80ed" alt="GitHub Streak" />
+  <!-- Swapped from Heroku to the actively maintained Demolab instance for Streaks -->
+  <img src="https://streak-stats.demolab.com/?user=mohit-rathwa&theme=transparent&hide_border=true&title_color=2f80ed&cache_seconds=86400" alt="GitHub Streak" />
 </div>
