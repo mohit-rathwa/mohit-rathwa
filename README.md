@@ -14,8 +14,8 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://drive.google.com/file/d/1SLR2B0Y9Dti7GlL2SahfLGEZG_z1tAFJ/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
-</a>
+  <img src="https://img.shields.io/badge/Resume-2EA44F?style=for-the-badge&logoColor=white" alt="Resume"/>
+  </a>
 
 </div>
 
